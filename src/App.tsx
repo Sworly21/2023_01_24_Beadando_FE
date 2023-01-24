@@ -47,6 +47,7 @@ class App extends Component<{}, State> {
   componentDidMount() {
     this.loadTarhely();
   }
+  
 
   handleFelvetel =async () => {
     const { newNev, newMeret, newAr } = this.state;
