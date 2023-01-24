@@ -7,6 +7,7 @@ interface State {
   newNev: string;
   newMeret: number;
   newAr: number;
+  
 }
 
 interface Tarhely {
